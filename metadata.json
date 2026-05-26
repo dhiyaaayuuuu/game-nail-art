@@ -1,0 +1,6 @@
+{
+  "name": "Nail Art Studio",
+  "description": "Game salon kecantikan kuku interaktif dengan berbagai pilihan warna kuteks, stiker, kuas pola, dan aksesoris cincin perhiasan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
